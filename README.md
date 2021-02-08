@@ -23,7 +23,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/Tyoo1110/Vury-bot
-> cd Arya-BOT3
+> cd Vury-bot
 > npm install
 ```
 ###### Run
