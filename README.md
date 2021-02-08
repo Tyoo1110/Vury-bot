@@ -5,13 +5,13 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tyo1110"><img title="Author" src="https://img.shields.io/badge/Author-Tyoo-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Tyoo1110/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tyoo1110?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tyoo1110/Vury-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tyoo1110/Vury-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Tyoo1110/vury-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/tyoo1110/vury-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Tyoo1110/vury-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tyoo1110/vury-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -22,7 +22,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT3
+> git clone https://github.com/Tyoo1110/Vury-bot
 > cd Arya-BOT3
 > npm install
 ```
@@ -39,7 +39,7 @@
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-BOT3
+> git clone https://github.com/Tyoo1110/Vury-bot
 > cd Arya-BOT3
 > npm install
 ```
@@ -49,7 +49,7 @@
 ```
 
 
-```
+
 
 
 ### Donate
